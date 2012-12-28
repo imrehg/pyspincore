@@ -1,7 +1,9 @@
 # Pyspincore
 
-Python wrapper for Spin Core's digital PulseBlasters and other devices.
+Python wrapper for [SpinCore](http://www.spincore.com/)'s digital PulseBlasters and other devices.
 Objective is to get it working for Windows / Linux, and 32/64 bit systems.
+
+This is unofficial work, not in any way connected to SpinCore Technologies Inc..
 
 ## Hardware support
 
